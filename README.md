@@ -12,4 +12,6 @@ climate:
     host: <host_ip>
 ```    
 
-2. Copy kkrp01a component to **config_dir/custom_components**    
+2. Copy kkrp01a component to **config_dir/custom_components**   
+
+3. Restart your Home Assistant server
