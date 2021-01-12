@@ -3,7 +3,7 @@ Custom component for KKRP01A Daikin controller
 
 Installation:
 
-1. In your 'configuration.yaml' add the following:
+1. In your *configuration.yaml* add the following:
 
 ```
 climate:
@@ -12,4 +12,4 @@ climate:
     host: <host_ip>
 ```    
 
-2. Copy kkrp01a component to 'config_dir/custom_components'    
+2. Copy kkrp01a component to *config_dir/custom_components*    
