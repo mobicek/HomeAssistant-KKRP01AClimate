@@ -1,0 +1,8 @@
+{
+  "domain": "kkrp01a",
+  "name": "Daikin kkrp01a controller",
+  "documentation": "https://github.com/mobicek/HomeAssistant-KKRP01AClimate",
+  "dependencies": [],
+  "codeowners": ["@mobicek"],
+  "requirements": []
+}
