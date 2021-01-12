@@ -1,8 +1,8 @@
 ### HomeAssistant-KKRP01AClimate
 Custom component for KKRP01A Daikin controller
 
-![Image of Preview1](https://github.com/mobicek/HomeAssistant-KKRP01AClimate/images/preview1.png)
-![Image of Preview2](https://github.com/mobicek/HomeAssistant-KKRP01AClimate/images/preview2.png)
+![Image of Preview1](https://github.com/mobicek/HomeAssistant-KKRP01AClimate/blob/main/images/preview1.png)
+![Image of Preview2](https://github.com/mobicek/HomeAssistant-KKRP01AClimate/blob/main/images/preview2.png)
 
 Installation:
 
